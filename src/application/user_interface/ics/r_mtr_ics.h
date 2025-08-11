@@ -32,7 +32,7 @@
 /***********************************************************************************************************************
 * Macro definitions
 ***********************************************************************************************************************/
-#define     USE_BUILT_IN             (0)                            /* 0:Normal 1:Built-in */
+#define     USE_BUILT_IN             (1)                            /* 0:Normal 1:Built-in */
 
 #if USE_BUILT_IN
 #define     MTR_ICS_DECIMATION       (1)                            /* ICS watch skipping number */
